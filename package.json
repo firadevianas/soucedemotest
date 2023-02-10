@@ -1,0 +1,22 @@
+{
+  "name": "soucedemotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firadevianas/soucedemotest.git"
+  },
+  "author": "fira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firadevianas/soucedemotest/issues"
+  },
+  "homepage": "https://github.com/firadevianas/soucedemotest#readme",
+  "dependencies": {
+    "cypress": "^12.5.1"
+  }
+}
